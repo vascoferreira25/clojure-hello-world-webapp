@@ -1,0 +1,37 @@
+2018-04-06 02:00:57,477 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2018-04-06 02:00:59,912 [main] INFO  guestbook.env - 
+-=[guestbook started successfully using the development profile]=- 
+2018-04-06 02:01:01,283 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2018-04-06 02:01:01,416 [main] DEBUG io.undertow - starting undertow server io.undertow.Undertow@745955ba 
+2018-04-06 02:01:01,459 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2018-04-06 02:01:03,763 [main] DEBUG io.undertow - Configuring listener with protocol HTTP for interface 0.0.0.0 and port 3000 
+2018-04-06 02:01:04,217 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2018-04-06 02:01:04,217 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2018-04-06 02:01:04,634 [main] INFO  guestbook.core - #'guestbook.config/env started 
+2018-04-06 02:01:04,634 [main] INFO  guestbook.core - #'guestbook.handler/init-app started 
+2018-04-06 02:01:04,634 [main] INFO  guestbook.core - #'guestbook.handler/app started 
+2018-04-06 02:01:04,634 [main] INFO  guestbook.core - #'guestbook.core/http-server started 
+2018-04-06 02:01:04,634 [main] INFO  guestbook.core - #'guestbook.core/repl-server started 
+2018-04-06 02:06:22,264 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2018-04-06 02:06:23,825 [main] INFO  migratus.core - Starting migrations 
+2018-04-06 02:06:24,998 [main] INFO  migratus.database - creating migration table 'schema_migrations' 
+2018-04-06 02:06:25,113 [main] DEBUG migratus.migrations - Looking for migrations in #object[java.io.File 0x58a5b377 C:\Users\Mahesvara\Documents\Personal_Documents\Programming\Clojure\Clojure-For-The-Brave-And-True\guestbook\resources\migrations] 
+2018-04-06 02:06:25,160 [main] INFO  migratus.core - Running up for [20180406015814] 
+2018-04-06 02:06:25,160 [main] INFO  migratus.core - Up 20180406015814-add-users-table 
+2018-04-06 02:06:25,198 [main] DEBUG migratus.migration.sql - found 1 up migrations 
+2018-04-06 02:06:25,214 [main] DEBUG migratus.database - marking 20180406015814 complete 
+2018-04-06 02:06:25,229 [main] INFO  migratus.core - Ending migrations 
+2018-04-06 02:10:57,064 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2018-04-06 02:10:58,524 [main] INFO  guestbook.env - 
+-=[guestbook started successfully using the development profile]=- 
+2018-04-06 02:11:00,127 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2018-04-06 02:11:00,245 [main] DEBUG io.undertow - starting undertow server io.undertow.Undertow@217ed737 
+2018-04-06 02:11:00,271 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2018-04-06 02:11:00,686 [main] DEBUG io.undertow - Configuring listener with protocol HTTP for interface 0.0.0.0 and port 3000 
+2018-04-06 02:11:00,796 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2018-04-06 02:11:00,799 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2018-04-06 02:11:00,835 [main] INFO  guestbook.core - #'guestbook.config/env started 
+2018-04-06 02:11:00,836 [main] INFO  guestbook.core - #'guestbook.handler/init-app started 
+2018-04-06 02:11:00,836 [main] INFO  guestbook.core - #'guestbook.handler/app started 
+2018-04-06 02:11:00,836 [main] INFO  guestbook.core - #'guestbook.core/http-server started 
+2018-04-06 02:11:00,836 [main] INFO  guestbook.core - #'guestbook.core/repl-server started 
